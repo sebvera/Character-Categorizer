@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <math.h>
 
-int main (){
-    
+int main ()
+{
     char n;
     int counter;
     
@@ -49,8 +49,6 @@ int main (){
       printf("%c is a special symbol.", n);
         
       }
-      
-       
-    return 0;
     
+    return 0;    
 }
